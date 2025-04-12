@@ -1,0 +1,5 @@
+2025-04-11 20:28:21,232 | crit_logger |CRITICAL | infinite loop
+2025-04-11 20:28:21,232 | error_logger |ERROR | object does not exist
+2025-04-11 20:28:21,232 | warning_logger |WARNING | var is not initialized
+2025-04-11 20:28:21,232 | info_logger |INFO | data sent
+2025-04-11 20:28:21,232 | timmy.pyt |ERROR | timmy process does not exist
